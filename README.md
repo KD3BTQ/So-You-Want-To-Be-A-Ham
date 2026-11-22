@@ -17,11 +17,21 @@ Not really sure how to "categorize" your interest? Here are a few reason you may
 
 Maybe you have a couple of points of interest. Keep them in mind as you start your journey. There will come a time where you need to decide how to spend your time (studying for exams & practicing with equipment) and money (radios do cost real world monies). 
 
+## What is HAM Radio? 
+You've probably watched a YouTube video or talked with friends about HAM before getting to this page, so I'll keep this short. There is no such thing as a "HAM Radio". You can get a "HAM Radio License" that will give you the legal permissions to *transmit*
+
 ## Why HAM Radio?
 Your answer to the question above will help answer this question. There are other ways to get on the air, from GMRS to FRS to just plain ol' low-power unlicensed operation. It is also worth noting that in true emergencies, use of a radio to guard the "safety of life and protection of property" is protected by the FCC: 
 
-> § 97.403 Safety of life and protection of property.
+> **§ 97.403 Safety of life and protection of property.**
+> 
 > No provision of these rules prevents the use by an amateur station of any means of radiocommunication at its disposal to provide essential communication needs in connection with the immediate safety of human life and immediate protection of property when normal communication systems are not available.
+
+### Why Not GMRS? 
+GMRS is an excellent choice for local communication plans with a group of family or friends. There are [plenty of resources online](https://support.midlandusa.com/hc/en-us/articles/23643888744983-FRS-GMRS-CB-HAM-What-s-the-Difference-and-What-to-Choose) that will tell you what GMRS is and isn't good at with respect to HAM radio. The short-of-the-long is that GMRS will give you access to only a small slice of UHF frequencies as a lower power than HAM; this means GMRS will get you maybe a couple of miles of point-to-point communication with a smaller selection of radio models available compared to HAM. Digital voice modes are not allowed on GMRS. 
+
+### Why Not FRS
+FRS will follow the same "downsides" as GMRS, but even more severely. The power available to FRS and licensed radios will let you operate in an immediate vicinity on an even smaller slice of UHF at even lower power. If your goal is to chat with neighbors on your block, or let your kids fool around with radios to talk to each other, then maybe FRS is for you. 
 
 ## Where to Start
 There are a couple of things to start doing 
