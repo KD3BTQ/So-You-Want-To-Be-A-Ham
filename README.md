@@ -20,7 +20,7 @@ Maybe you have a couple of points of interest. Keep them in mind as you start yo
 ## What is HAM Radio? 
 You've probably watched a YouTube video or talked with friends about HAM before getting to this page, so I'll keep this short. There is no such thing as a "HAM Radio". You can get a "HAM Radio License" that will give you the legal permissions to *transmit* on a select set of frequencies. Below a depection of what use each radio frequency is permitted to in the United States. The frequencies you can be allowed to operate on with a HAM license are highlighted in green. You can find the [original full-color document here. ](https://upload.wikimedia.org/wikipedia/commons/7/75/United_States_Frequency_Allocations_chart_-_September_2025.pdf?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original)
 
-[US_Frequency_Allocations_2025_HAM_only](US_Frequency_Allocations_2025_HAM_only.pdf)
+[US_Frequency_Allocations_2025_HAM_only](resources/US_Frequency_Allocations_2025_HAM_only.pdf)
 
 
 ## Why HAM Radio?
