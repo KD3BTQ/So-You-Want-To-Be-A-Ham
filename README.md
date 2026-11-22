@@ -13,6 +13,18 @@ Not really sure how to "categorize" your interest? Here are a few reason you may
 - You want to learn more about circuits, batteries, and electrical engineering
 - You want to do satellite communication stuff 
 - You're interested more in learning about radio for emergencies or "grid-down scenarios"
+- You have a local club you want to hang with more. 
+
+Maybe you have a couple of points of interest. Keep them in mind as you start your journey. There will come a time where you need to decide how to spend your time (studying for exams & practicing with equipment) and money (radios do cost real world monies). 
+
+## Why HAM Radio?
+Your answer to the question above will help answer this question. There are other ways to get on the air, from GMRS to FRS to just plain ol' low-power unlicensed operation. It is also worth noting that in true emergencies, use of a radio to guard the "safety of life and protection of property" is protected by the FCC: 
+
+> § 97.403 Safety of life and protection of property.
+> No provision of these rules prevents the use by an amateur station of any means of radiocommunication at its disposal to provide essential communication needs in connection with the immediate safety of human life and immediate protection of property when normal communication systems are not available.
+
+## Where to Start
+There are a couple of things to start doing 
 
 # Resources
 
